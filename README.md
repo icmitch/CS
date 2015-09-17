@@ -22,3 +22,4 @@ order allow,deny
 <p>NOTE: I use my silk account, your zoo account will also work</p>
 
 <p>NOTE you will need to change this line in assignment1.0/lib/constants.php<br><br>define("DATABASE_NAME", strtoupper(get_current_user()) . '_UVM_Courses_Testing');<br><br>So that is has the correct database name that you are using.</p>
+# CS
